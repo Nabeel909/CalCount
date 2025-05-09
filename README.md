@@ -8,12 +8,6 @@ An intelligent calorie and nutrition estimator app built with **Streamlit** and 
 
 ---
 
-## 🚀 Demo
-
-![Demo Preview](demo.gif) *(Optional if you want to include a screen recording)*
-
----
-
 ## 🛠️ Features
 
 - 📸 Upload a food image (JPG, JPEG, PNG)
