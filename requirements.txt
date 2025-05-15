@@ -1,0 +1,9 @@
+streamlit
+google-generativeai
+python-dotenv
+pillow
+sqlite3 (built-in with Python)
+pandas
+fpdf
+streamlit-lottie
+requests
